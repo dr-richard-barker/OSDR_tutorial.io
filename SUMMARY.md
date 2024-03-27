@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [Gitbook or Markdown formatting.](README.md)
 * [OSDR Introduction](osdr-repo-training.md)
 * [How to access data in the OSDR](how-to-access-data-in-the-osdr.md)
 * [Guidelines for Data Submission](guidelines-for-data-submission.md)
