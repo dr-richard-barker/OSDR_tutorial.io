@@ -4,7 +4,7 @@ description: This document introduces the NASA Open Science Data Repository (OSD
 
 # Page
 
-[View this document as a gitbook](https://astrobotany.gitbook.io/osdr-repo-training/)
+([View this document as a gitbook](https://astrobotany.gitbook.io/osdr-repo-training/))
 
 ## OSDR Repo Training
 
