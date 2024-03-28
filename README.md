@@ -156,10 +156,6 @@ The AWG dropdown menu in GeneLab serves as a comprehensive resource for users to
 
 [**Tutorials**](https://genelab.nasa.gov/help/tutorials)[**:**](https://genelab.nasa.gov/help/tutorials) Step-by-step tutorials guide users through essential tasks such as data submission, metadata creation, and search functions. Visual aids, screenshots, and detailed instructions make the learning process intuitive and accessible. Tutorials are regularly updated to reflect any changes or improvements in OSDR platform.
 
-[**Contact Information**](https://genelab.nasa.gov/help/contact)[**:**](https://genelab.nasa.gov/help/contact) Multiple communication channels are available for users to reach OSDR staff including (GeneLab Slack and Discorse.OSDR.space are used by AWG's for communication). Email, phone numbers, and social media platforms provide convenient options for inquiries, feedback, and technical support. Prompt response times ensure that users receive the assistance they need promptly.
-
-### &#x20;<a href="#lqe4n3fweleg" id="lqe4n3fweleg"></a>
-
-### &#x20;<a href="#y276k5gp6t0f" id="y276k5gp6t0f"></a>
+[**Contact Information**](https://genelab.nasa.gov/help/contact)[**:**](https://genelab.nasa.gov/help/contact) Multiple communication channels are available for users to reach OSDR staff including ("GeneLab Slack" channel and Discorse "OSDR-space" are used by AWG's for communication). Email, phone numbers, and social media platforms provide convenient options for inquiries, feedback, and technical support. Prompt response times ensure that users receive the assistance they need promptly.
 
 ### &#x20;<a href="#qajl9nudnnw8" id="qajl9nudnnw8"></a>
