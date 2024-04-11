@@ -4,7 +4,7 @@ description: >-
   Biology research community.
 ---
 
-# How to access data in the OSDR
+# Access data in the OSDR
 
 1. Go to the **NASA OSDR** [home page](https://osdr.nasa.gov/bio/index.html).
 2. Click on the **"Data & Tools"** tab at the top of the page
@@ -42,7 +42,7 @@ _or click on the_ [_Data Repository Explo_](https://osdr.nasa.gov/bio/repo/searc
 Study metadata are viewable through a tabbed user interface for each study (see below). Click on each tab to navigate through the different sections: Description, Protocols, Sample and Assay Tables, Publications, Study Files and for some processed studies transcriptional visualization.
 
 * The “Description” tab provides an overview of the study including a text description, contact information, experimental factors, organism(s), type of assay(s), project or mission details, funding information and citation information.
-  * **Description example:** The red box highlights the “Description tab” view that has selected an example dataset, GLDS-37. Below is a series of buttons that allow the user to navigate through the data to find details of interest.
+  * **Description example:** The red box highlights the “Description tab” view that has selected an example dataset, OSD-37. Below is a series of buttons that allow the user to navigate through the data to find details of interest.
 
 <figure><img src=".gitbook/assets/Slide22 (1).png" alt=""><figcaption><p><em>The left-hand side of the webpage contains shortcut buttons that take you to additional information, such as a brief description of the experiment, the submission date of the experiment, the size of the data, the GeneLab ID associated with the data, the Digital Object Identifier (DOI), information about the source of the samples, and the assays, publications, files, and version history. The description box has been highlighted with a red dashed line. All the options on the menu on the left have been highlighted with red letters (A-K).</em></p></figcaption></figure>
 
@@ -78,7 +78,7 @@ Study metadata are viewable through a tabbed user interface for each study (see 
 
 *   The “Samples” and “Assays” tabs provide sample and assay level details formatted in a navigatable table. These tabs include specific organism characteristics, study factors and treatments, sample and sample processing metadata, assay execution parameters, and data processing metadata. Use the bottom navigation bar to scroll through all the columns, and the right margin scroll bar to navigate the rows.
 
-    * **Sample example:** A GeneLab dataset, GLDS-37, sample name tab and sort/filter functions. The select export column button in the top left corner allows the selection and download of the most important sample factors. Entries in the table with Blue text provide links to ontology databases to help define their meaning. In the bottom right corner the number of entries on the page is set to 25 as default, many studies have more samples, so you can either navigate through the samples with the arrow button(s) or increase the number of entries per page to 50 or >\~100.
+    * **Sample example:** A OSD dataset, OSD-37, sample name tab and sort/filter functions. The select export column button in the top left corner allows the selection and download of the most important sample factors. Entries in the table with Blue text provide links to ontology databases to help define their meaning. In the bottom right corner the number of entries on the page is set to 25 as default, many studies have more samples, so you can either navigate through the samples with the arrow button(s) or increase the number of entries per page to 50 or >\~100.
 
     <figure><img src=".gitbook/assets/Slide23 (1).png" alt="The image shows the “Samples” tab selection which includes the name of the samples. There are scroll bars on the right side and the bottom. The table contains multiple fields of data describing the characteristics of the samples and providing links to some ontology terms that can be used to define experimental factors. The Select Export Columns button has been highlighted with a red box and a red dotted arrow."><figcaption><p><em>The image shows the “Samples” tab selection which includes the name of the samples. The table contains data describing the characteristics of the samples and providing links to some ontology terms that can be used to define experimental factors. The Select Export Columns button has been highlighted with a red box and a red dotted arrow.</em></p></figcaption></figure>
 
@@ -87,7 +87,7 @@ Study metadata are viewable through a tabbed user interface for each study (see 
 **The Assay(s) tab contains data that can be saved or used to develop new statistical tests.**
 
 * There are many fields of data, users can scroll left and right using the slider bar at the bottom of the table or by “holding shift” while scrolling with a “mouse wheel”.
-  * **Assays example:** A GeneLab dataset, GLDS-37, assay name tab and sort/filter functions. Some studies have more than one assay type which can be accessed using the drop-down menu in the top right-hand corner. These columns can be selected for download using the export column button. Some fields are links to data files that can be downed directly from the webpage, “right-click” on the entries with blue text and select “download” from the options.
+  * **Assays example:** A GeneLab dataset, OSD-37, assay name tab and sort/filter functions. Some studies have more than one assay type which can be accessed using the drop-down menu in the top right-hand corner. These columns can be selected for download using the export column button. Some fields are links to data files that can be downed directly from the webpage, “right-click” on the entries with blue text and select “download” from the options.
 
 <figure><img src=".gitbook/assets/Slide25.png" alt="The image shows the “Assays” tab selection which includes the name of the assay (which in some cases is a drop-down menu that presents the option of multi-assay that can be selected). There are scroll bars on the right side and the bottom. There is a table that contains multiple fields of data describing the characteristics of the assays and providing links to some of the data products. The scroll bar at the bottom of the page is highlighted with a red box and a yellow arrow shows where the grey bar can be moved to scroll the meta-data stable to the left or right. The “Select Export Columns” button has been highlighted with a red box and an orange dotted line."><figcaption><p>Please remember that you change between different types of assay and can scroll lef and right to observe more metadata information. </p></figcaption></figure>
 
@@ -103,7 +103,7 @@ Study metadata are viewable through a tabbed user interface for each study (see 
 **This resource allows you to access and download the raw and processed data.**
 
 * The Study Files tab provides metadata and raw or processed study data files. Each row includes information about the size, type, and description. Click on the file name to download. You can download multiple files by clicking the checkbox at the left of the file name to select and then clicking the “Download Selected Files” button. To select all files in a resource category, navigate to the desired folder by selecting the folder name and then click on the checkbox at the top of the table, next to the Files column name.
-  * **File example:** Study files view and sort/filter functions for GeneLab dataset, GLDS-37.
+  * **File example:** Study files view and sort/filter functions for OSDR dataset, OSD-37.
 
 <figure><img src=".gitbook/assets/Slide27.png" alt="The files tab has a “Search Files” entry field, then shows the folder structure of the selected OSD study and any subsequent folders which always include the Study Metadata Files, usually include the Raw Data files and occasionally include processed data files or GeneLab Processed data files."><figcaption></figcaption></figure>
 
@@ -111,7 +111,7 @@ Study metadata are viewable through a tabbed user interface for each study (see 
 
 **The search bar is a quick and easy way to filter through the data and can be used to create precise database queries.**
 
-#### Search database <a href="#qdxg8g4b8f9y" id="qdxg8g4b8f9y"></a>
+
 
 **OSDR provides users with a full-text search capability of the metadata for all datasets.**
 
@@ -139,6 +139,8 @@ Full-text search terms can be a single word or multiple words with either Boolea
 
 <figure><img src=".gitbook/assets/Slide13 (2).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered. This search identifies 14 studies that use these terms in their metadata."><figcaption><p>The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered. This search identifies 14 studies that use these terms in their metadata.</p></figcaption></figure>
 
+#### &#x20;<a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a>
+
 #### Multiple-field searches <a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a>
 
 **How to create efficient searches by searching multiple fields.**
@@ -153,7 +155,7 @@ Full-text search terms can be a single word or multiple words with either Boolea
 
 
 
-#### Boolean Operator Options <a href="#l33m3u35t1a7" id="l33m3u35t1a7"></a>
+### Boolean Operator Options <a href="#l33m3u35t1a7" id="l33m3u35t1a7"></a>
 
 **How to make your search more insightful or precise using defined boolean operators.**
 
@@ -235,6 +237,8 @@ In addition, OSDR offers filters that facilitate the search process for related 
 
 <figure><img src=".gitbook/assets/Slide20.png" alt="The Image shows a series of Filters grouped by Assay type, Organism, Tissue and Factor. Spaceflight, RNAseq, Plant and Seedling were selected."><figcaption><p><em>The Image shows a series of Filters grouped by Assay type, Organism, Tissue and Factor. Spaceflight, RNAseq, Plant and Seedling were selected.</em></p></figcaption></figure>
 
+### &#x20;<a href="#n2cdxvmjoiy1" id="n2cdxvmjoiy1"></a>
+
 ### Single Study Data Visualization <a href="#n2cdxvmjoiy1" id="n2cdxvmjoiy1"></a>
 
 #### Launching the single-study data visualization <a href="#jirp1jnmqw4k" id="jirp1jnmqw4k"></a>
@@ -249,6 +253,8 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide21.png" alt="Example showing the OSD page for accession # 37. The page presents a description of the experiment and related metadata. https://osdr.nasa.gov/bio/repo/data/studies/OSD-37."><figcaption><p><em>Example showing the OSD page for accession # 37. The page presents a description of the experiment and related metadata.</em> <a href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-37">https://osdr.nasa.gov/bio/repo/data/studies/OSD-37</a>.</p></figcaption></figure>
 
+### &#x20;<a href="#bltxtycjg7o9" id="bltxtycjg7o9"></a>
+
 ### Single Study Visualization Navigation bar <a href="#bltxtycjg7o9" id="bltxtycjg7o9"></a>
 
 **The OSDR Visualization Navigation bar can allow you to navigate to a graph of interest.**
@@ -259,7 +265,9 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide33.png" alt="The OSDR Visualization interface includes the text &#x22;OSDR Visualization&#x22; and &#x22;OSD-37,&#x22; and a “Study details” search bar. Below is a horizontal navigation menu with various options like &#x22;Home,&#x22; &#x22;PCA,&#x22; &#x22;Volcano,&#x22;, “Pair plots”, “Heat maps”, “DGE”, “GSEA”, and “Group Selection”. In this example, it shows that Group 1 of Col-0&#x26;FLT (which is the flight group) and Group 2 is Col-0&#x26;GC (which is the ground control group). There is a “Modify groups” button in the bottom left corner that can be used to change the groups of samples used to generate the data in the plots" width="140"><figcaption><p><em>The OSDR Visualization interface includes the text "GeneLab Visualization" and "OSD-37," and a “Study details” search bar. Below is a horizontal navigation menu with various options like "Home," "PCA," "Volcano,", “Pair plots”, “Heat maps”, “DGE”, “GSEA”, and “Group Selection”. In this example, it shows that Group 1 of Col-0&#x26;FLT (which is the flight group) and Group 2 is Col-0&#x26;GC (which is the ground control group). There is a “Modify groups” button in the bottom left corner that can be used to change the groups of samples used to generate the data in the plots</em></p></figcaption></figure>
 
-#### Select Group(s) <a href="#hmtojdhstykw" id="hmtojdhstykw"></a>
+### &#x20;<a href="#hmtojdhstykw" id="hmtojdhstykw"></a>
+
+### Select Group(s) <a href="#hmtojdhstykw" id="hmtojdhstykw"></a>
 
 **Select Groups can be compared statically using the GeneLab data visualisation application.**
 
@@ -268,7 +276,9 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide49.png" alt="The images show the Group Selection screen. The screen is divided into two sections, each labelled with a group name and containing descriptions of the selected factors. In this example, it shows the &#x22;Ecotypes” and &#x22;treatments&#x22;. A red dashed line highlights that when 2 groups are assigned a pop-up window shows the groups that are being compared."><figcaption><p><em>The images show the Group Selection screen. The screen is divided into two sections, each labelled with a group name and containing descriptions of the selected factors. In this example, it shows the "Ecotypes” and "treatments". A red dashed line highlights that when 2 groups are assigned a pop-up window shows the groups that are being compared.</em></p></figcaption></figure>
 
-#### Principal component analysis <a href="#we9brgzii034" id="we9brgzii034"></a>
+### &#x20;<a href="#we9brgzii034" id="we9brgzii034"></a>
+
+### Principal component analysis <a href="#we9brgzii034" id="we9brgzii034"></a>
 
 **Principal component analysis (PCA) shows clusters of samples based on their similarity.**
 
@@ -279,7 +289,9 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide34.png" alt="The scatter plot exemplifies the clustering of samples via Principal Component Analysis (PCA), a method that transforms correlated variables into uncorrelated ones called principal components. The plot presents the projection of samples onto the first two or 3 principal components, showcasing the majority of the variance in the original data. The clustering suggests the presence of distinct groups, indicating different characteristics captured by the principal components."><figcaption><p><em>The scatter plot exemplifies the clustering of samples via Principal Component Analysis (PCA), a method that transforms correlated variables into uncorrelated ones called principal components. The plot presents the projection of samples onto the first two or 3 principal components, showcasing the majority of the variance in the original data. The clustering suggests the presence of distinct groups, indicating different characteristics captured by the principal components.</em></p></figcaption></figure>
 
-#### Replicate variability pair plots <a href="#eewgwyi97mqc" id="eewgwyi97mqc"></a>
+#### &#x20;<a href="#eewgwyi97mqc" id="eewgwyi97mqc"></a>
+
+### Pair plots  <a href="#eewgwyi97mqc" id="eewgwyi97mqc"></a>
 
 **The “Pair plots” can be used to compare 2 samples from group 1 or group 2 respectively.**
 
@@ -288,7 +300,9 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide35 (1).png" alt="Pair plots comparing 2 samples from Atha_Col-0_s1-pool_FLT_Rep4_R1-FL-B4 on the X axis and with Atha_Col-0_s1-pool_FLT_Rep4_R1-FL-B4 on the Y-axis. Loci are represented by red and blue dots. In the top right-hand corner, there is a menu of options, including snapshot, zoom, lasso, full screen, and the “update” button is highlighted in blue."><figcaption><p><em>Pair plots comparing 2 samples from Atha_Col-0_s1-pool_FLT_Rep4_R1-FL-B4 on the X axis and with Atha_Col-0_s1-pool_FLT_Rep4_R1-FL-B4 on the Y-axis. Loci are represented by red and blue dots. In the top right-hand corner, there is a menu of options, including snapshot, zoom, lasso, full screen, and the “update” button is highlighted in blue.</em></p></figcaption></figure>
 
-#### Volcano Plots <a href="#id-3cb9r7if7di1" id="id-3cb9r7if7di1"></a>
+### &#x20;<a href="#id-3cb9r7if7di1" id="id-3cb9r7if7di1"></a>
+
+### Volcano Plots <a href="#id-3cb9r7if7di1" id="id-3cb9r7if7di1"></a>
 
 **Volcano plots show statistical significance vs magnitude of change.**
 
@@ -297,7 +311,9 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide36.png" alt="Image showing a volcano plot, with red dots representing genes with a significant increase in expression in orbit and blue dots representing genes that expression that was potentially suppressed by spaceflight-related factors. Drop-down menu allows for the selection of parameters, samples for comparison and maximum adjusted p-value. Some tabs also enable the transformation of the Y axis, the threshold of the adjusted P-value and the threshold of the Log2 FC can be adjusted using the menu bar at the top."><figcaption><p><em>Image showing a volcano plot, with red dots representing genes with a significant increase in expression in orbit and blue dots representing genes that expression that was potentially suppressed by spaceflight-related factors. Drop-down menu allows for the selection of parameters, samples for comparison and maximum adjusted p-value. Some tabs also enable the transformation of the Y axis, the threshold of the adjusted P-value and the threshold of the Log2 FC can be adjusted using the menu bar at the top.</em></p></figcaption></figure>
 
-#### Table of resulting gene expression data <a href="#t7933tpb5wrd" id="t7933tpb5wrd"></a>
+#### &#x20;<a href="#t7933tpb5wrd" id="t7933tpb5wrd"></a>
+
+### Table of gene expression data <a href="#t7933tpb5wrd" id="t7933tpb5wrd"></a>
 
 **A summary table of data compiling gene RefSeq IDs, Symbols, Log2Fc, P values, and Adjusted-P-values is often the most concise way to view data.**
 
@@ -306,7 +322,7 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide38.png" alt="A screenshot from OSDR data visualization titled &#x22;OSD-37 DGE&#x22; showing a list of Gene REFSEQ IDs and Gene Symbols, along with their LOG2FC, PVAL and ADJP values. In the top right corner, there are boxes where users can enter values for P-VAL (P-value), maximum ADJP (adjusted P-value), LOG2FC (Log2 transformed fold change) or just search for particular gene REFSEQ ID or gene Symbol (Name). In the top left, there are a series of buttons to help export to CVS, Excel, PDF or Print. In the bottom left corner, it shows the number of entries on the page the total number selected by the filtering options and the total number of entries. In the bottom right corner, some buttons allow the user to navigate through the results on the screen."><figcaption><p><em>A screenshot from OSDR data visualization titled "OSD-37 DGE" showing a list of Gene REFSEQ IDs and Gene Symbols, along with their LOG2FC, PVAL and ADJP values. In the top right corner, there are boxes where users can enter values for P-VAL (P-value), maximum ADJP (adjusted P-value), LOG2FC (Log2 transformed fold change) or just search for particular gene REFSEQ ID or gene Symbol (Name).</em> <em>In the top left, there are a series of buttons to help export to CVS, Excel, PDF or Print. In the bottom left corner, it shows the number of entries on the page the total number selected by the filtering options and the total number of entries. In the bottom right corner, some buttons allow the user to navigate through the results on the screen.</em></p></figcaption></figure>
 
-#### Gene Set Enrichment Analysis (GSEA) <a href="#l6v0c891a6ps" id="l6v0c891a6ps"></a>
+### Gene Set Enrichment Analysis (GSEA) <a href="#l6v0c891a6ps" id="l6v0c891a6ps"></a>
 
 **GSEA is a tool that enables statistical comparisons of genetic and molecular databases.**
 
@@ -317,7 +333,9 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide39.png" alt="Image displaying a table of graphing options. The selection of options has created a red NES plot showing 4 terms (Ribosome, Endocytosis, RNA degradation and cell cycle) identified by GSEA analysis of the KEGG_2019 database. The permutation and gene list min and maximum parameters are highlighted with an orange dashed box. The plot-type menu has been highlighted with an orange dotted box."><figcaption><p><em>Image displaying a table of graphing options. The selection of options has created a red NES plot showing 4 terms (Ribosome, Endocytosis, RNA degradation and cell cycle) identified by GSEA analysis of the KEGG_2019 database. The permutation and gene list min and maximum parameters are highlighted with an orange dashed box. The plot-type menu has been highlighted with an orange dotted box.</em></p></figcaption></figure>
 
-#### Ontology databases and statistical methods used for analysis. <a href="#o9we3slvz8rf" id="o9we3slvz8rf"></a>
+#### &#x20;<a href="#o9we3slvz8rf" id="o9we3slvz8rf"></a>
+
+### Ontology databases and statistical methods used for analysis. <a href="#o9we3slvz8rf" id="o9we3slvz8rf"></a>
 
 **Selecting different databases for statistical analysis can identify different responses and provide alternative perspectives and insights from the results.**
 
@@ -326,7 +344,9 @@ Alternatively, if you’ve identified a study of interest in the OSDA and it has
 
 <figure><img src=".gitbook/assets/Slide40.png" alt="Image of half of the OSDR visualization page, the “Gene Set” menu has KEGG_2019 selected and a red dotted line links the list of accessible databases that can be selected from the connected drop-down menu that is highlighted by a yellow dotted line. The image also shows a red dashed line listing the different analysis “Methods” that can be used and the “Fold change” option is highlighted in blue to show it is selected." width="563"><figcaption><p><em>Image of half of the OSDR visualization page, the “Gene Set” menu has KEGG_2019 selected and a red dotted line links the list of accessible databases that can be selected from the connected drop-down menu that is highlighted by a yellow dotted line. The image also shows a red dashed line listing the different analysis “Methods” that can be used and the “Fold change” option is highlighted in blue to show it is selected.</em></p></figcaption></figure>
 
-#### Dot plots <a href="#bj3385d7e61m" id="bj3385d7e61m"></a>
+#### &#x20;<a href="#bj3385d7e61m" id="bj3385d7e61m"></a>
+
+### Dot plots <a href="#bj3385d7e61m" id="bj3385d7e61m"></a>
 
 **Dot plots can present 3 types of data on the same graph.**
 
@@ -339,7 +359,9 @@ The OSDR facilitates the visualization of the normalized enrichment score, false
 
 
 
-Ridge plots
+
+
+### Ridge plots <a href="#zc2ql3hfusf9" id="zc2ql3hfusf9"></a>
 
 **A ridge plot combines a density plot and a histogram to show how data, like Fold Change (FC), is distributed.**
 
@@ -350,7 +372,9 @@ The OSDR facilitates the visualization of the false discovery rate (FDR), and Fo
 
 <figure><img src=".gitbook/assets/Slide42.png" alt="A screenshot of an Open Science Data Repository (OSDR) ridge plot page displays a ridge plot entitled &#x22;OSD-37 GSEA”. The Y-axis label shows the names of the terms detected by enrichment analysis of the selected gene sets eg Endocytosis and Cell cycle. The x-axis label is &#x22;Gene Fold Change”. Red dotted line highlights where the “Ridge Plot&#x22; option was engaged."><figcaption><p><em>A screenshot of an Open Science Data Repository (OSDR) ridge plot page displays a ridge plot entitled "OSD-37 GSEA”. The Y-axis label shows the names of the terms detected by enrichment analysis of the selected gene sets eg Endocytosis and Cell cycle. The x-axis label is "Gene Fold Change”. Red dotted line highlights where the “Ridge Plot" option was engaged.</em></p></figcaption></figure>
 
-#### Network Plot <a href="#v5vfnpxc0gtj" id="v5vfnpxc0gtj"></a>
+### &#x20;<a href="#v5vfnpxc0gtj" id="v5vfnpxc0gtj"></a>
+
+### Network Plot <a href="#v5vfnpxc0gtj" id="v5vfnpxc0gtj"></a>
 
 **A network plot uses dots that represent nodes of data points that describe the response detected in the analysis.**
 
@@ -359,7 +383,9 @@ The OSDR facilitates the visualization of the false discovery rate (FDR), and Fo
 
 <figure><img src=".gitbook/assets/Slide43.png" alt="A screenshot of an Open Science Data Repository (OSDR) network plot page with the title OSD-37 GSEA. In the center a plot shows 4 circles, representing enriched terms from the KEGG_2019 database. The size of the dots indicates the number of genes detected in that GO group and the red-to-blue color gradient shows the significance of their enrichment. A red dotted line highlights where the network plot was selected"><figcaption><p><em>A screenshot of an Open Science Data Repository (OSDR) network plot page with the title OSD-37 GSEA. In the center a plot shows 4 circles, representing enriched terms from the KEGG_2019 database. The size of the dots indicates the number of genes detected in that GO group and the red-to-blue color gradient shows the significance of their enrichment. A red dotted line highlights where the network plot was selected</em></p></figcaption></figure>
 
-#### Network Plot used in conjunction with pathway illustration
+####
+
+### Network Plot used in conjunction with pathway illustration
 
 **A network plot uses dots that represent nodes of data points that describe the response detected in the analysis.**
 
@@ -367,7 +393,9 @@ The OSDR facilitates the visualization of the false discovery rate (FDR), and Fo
 
 <figure><img src=".gitbook/assets/Slide44.png" alt="The previous network dots and plot information have been incorporated into the endocytosis diagram to illustrate how these KEGG pathway terms related to cellular biology. The use of pop-out boxes and dotted or dashed lines is used to show connections based on knowledge from the literature."><figcaption><p><em>The previous network dots and plot information have been incorporated into the endocytosis diagram to illustrate how these KEGG pathway terms related to cellular biology. The use of pop-out boxes and dotted or dashed lines is used to show connections based on knowledge from the literature.</em></p></figcaption></figure>
 
-#### NES plots <a href="#j5wz6ra5953b" id="j5wz6ra5953b"></a>
+### &#x20;<a href="#j5wz6ra5953b" id="j5wz6ra5953b"></a>
+
+### NES plots <a href="#j5wz6ra5953b" id="j5wz6ra5953b"></a>
 
 **NES (Normalized Enrichment Score) plot offers a visual representation of the normalized enrichment score for gene sets identified by the user based on their parameters.**
 
@@ -378,7 +406,9 @@ The OSDR facilitates the visualization of the false discovery rate (FDR), and Fo
 
 
 
-Enhancing NES plots
+
+
+### Enhancing NES plots
 
 **Adjusting the parameters to influence the quantity and sequence of pathways detected.**
 
@@ -386,6 +416,8 @@ Enhancing NES plots
   * **Numerical method example:** In this OSD-37 example we’ve changed the “Method” value to 0 (classic), which changes the normalized enrichment score and graph layout.
 
 <figure><img src=".gitbook/assets/Slide46.png" alt="This image shows a screenshot from the OSDR Visualization software showing an NES plot graph and the options used to generate it. The bar plot structure summarizes distinct gene groups that are known to function in a similar location based on the GO-Cellular_Component_AutoRF enrichment analysis. The red dotted line highlights that the “Method” is currently set to 0 (classic mode) but was set to 1 in the previous figure."><figcaption><p><em>This image shows a NES plot and the options used to generate it. The bar plot structure summarizes distinct gene groups that are known to function in a similar location based on the GO-Cellular_Component_AutoRF enrichment analysis. The red dotted line highlights that the “Method” is currently set to 0 (classic mode) but was set to 1 in the previous figure.</em></p></figcaption></figure>
+
+
 
 **Refining NES plots using the Method Value**
 
@@ -396,7 +428,9 @@ Enhancing NES plots
 
 <figure><img src=".gitbook/assets/Slide47.png" alt="This image displays a screenshot of the OSDR Visualization software, which includes an NES plot graph and the parameters used to create it. The NES bar plot structure summarizes distinct gene groups known to function in a similar cellular location based on GO-Cellular_Component_AutoRIF_zscore enrichment analysis. The method is currently set to 0 1, and the number of “geneset”s included was set to 15, with coloring determined by a 0.25 False Discovery Rate (FDR) cutoff threshold. Red arrows highlight the Gene sets and number of “geneset”s selected for this enrichment analysis."><figcaption><p><em>This image displays a screenshot of the OSDR Visualization software, which includes an NES plot graph and the parameters used to create it. The NES bar plot structure summarizes distinct gene groups known to function in a similar cellular location based on GO-Cellular_Component_AutoRIF_zscore enrichment analysis. The method is currently set to 0 1, and the number of “geneset”s included was set to 15, with coloring determined by a 0.25 False Discovery Rate (FDR) cutoff threshold. Red arrows highlight the Gene sets and number of “geneset”s selected for this enrichment analysis.</em></p></figcaption></figure>
 
-Fine-tuning permutations
+
+
+### Fine-tuning permutations
 
 **Adjusting the permutation value can be used to improve the GSEA statistical model.**
 

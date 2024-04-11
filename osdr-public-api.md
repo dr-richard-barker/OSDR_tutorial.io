@@ -76,9 +76,7 @@ Let's look at a concrete example. Suppose we want to retrieve some data from NAS
 
 By replacing API\_ENDPOINT\_HERE with the actual URL of the API endpoint you want to access, you can use this code template to retrieve data from a variety of web services.
 
-### &#x20;<a href="#rzk9oxersg9a" id="rzk9oxersg9a"></a>
 
-### &#x20;<a href="#id-91pors730wn0" id="id-91pors730wn0"></a>
 
 ### Summary of Study Metadata API <a href="#oa543j8meou9" id="oa543j8meou9"></a>
 
@@ -126,9 +124,9 @@ Let's say you're interested in exploring the metadata for a particular OSDR stud
 
 ### https://osdr.nasa.gov/osdr/data/osd/meta/37 <a href="#dcke2d2hpnil" id="dcke2d2hpnil"></a>
 
-By using this URL through the API, you'll receive a response containing all the metadata associated with study 137. This metadata serves as a treasure trove of information, revealing details about the study design, samples involved, data types collected, and much more. [This Google CoLab Notebook ](https://github.com/dr-richard-barker/Space\_Biology\_and\_AstroBotany.io/blob/main/OSDR\_API\_demo\_GLDS-37.ipynb)demonstrates the what this API looks like and is available for users to edit and evolve.
+By using this URL through the API, you'll receive a response containing all the metadata associated with study 137. This metadata serves as a treasure trove of information, revealing details about the study design, samples involved, data types collected, and much more. [This Google CoLab Notebook ](https://github.com/dr-richard-barker/Space\_Biology\_and\_AstroBotany.io/blob/main/OSDR\_API\_demo\_GLDS-37.ipynb)demonstrates what this API looks like and is available for users to edit and evolve.
 
-{% embed url="https://github.com/dr-richard-barker/Space_Biology_Education.io/blob/main/OSDR_API_demo_GLDS-37.ipynb" %}
+{% @github-files/github-code-block url="https://github.com/dr-richard-barker/Space_Biology_Education.io/blob/main/OSDR_API_demo_GLDS-37.ipynb" %}
 
 #### The Power of the Response: Unveiling Study Secrets
 
@@ -143,8 +141,6 @@ Replace {OSD\_STUDY\_ID} with the actual accession number of the study you're in
 This API retrieves metadata, not the actual data files themselves. Use the Data File API (covered elsewhere) to download the data associated with a study.
 
 Always refer to the official OSDR documentation for the latest information on the API and its functionalities.
-
-### &#x20;<a href="#yahoeltsguat" id="yahoeltsguat"></a>
 
 ### Summary of Study Data File API <a href="#tz0q8lmeplzy" id="tz0q8lmeplzy"></a>
 
@@ -173,7 +169,7 @@ https://osdr.nasa.gov/osdr/data/osd/files/{**OSD\_STUDY\_IDs**}/?page={CURRENT\_
 
 In the example query/response below, the first study file for OSD-87 (version 1) study in the response below can be downloaded from [https://osdr.nasa.gov/geode-py/ws/studies/OSD-87/download?source=datamanager\&file=GLDS-87\_metadata\_Zanello\_STS135-ISA.zip](https://osdr.nasa.gov/geode-py/ws/studies/OSD-87/download?source=datamanager\&file=GLDS-87\_metadata\_Zanello\_STS135-ISA.zip)
 
-#### &#x20;<a href="#id-4d451e8kdbnt" id="id-4d451e8kdbnt"></a>
+
 
 ### **Explanation of the OSDR Study Data File API** <a href="#ivh1s0qlv61f" id="ivh1s0qlv61f"></a>
 
@@ -196,15 +192,13 @@ The API offers several parameters to fine-tune your request:
 * {RESULTS\_PER\_PAGE} (Integer, **Optional**): This parameter lets you control how many data files are returned per page. The maximum allowed value is 25, so keep that in mind when dealing with large datasets.
 * {ALL\_FILES} (Boolean, **Optional**): This parameter allows you to include hidden files in your search results. By default, only visible files are returned. Set it to true to include hidden files and false to exclude them.
 
-#### &#x20;<a href="#hvrs2d7wiafy" id="hvrs2d7wiafy"></a>
-
 #### **Constructing Your Request URL: Examples in Action** <a href="#id-19gl8lt4uvzb" id="id-19gl8lt4uvzb"></a>
 
 Let's explore some real-world examples:
 
 1. **Single Study Request:**
 
-Want to download data files for study with accession number 87? Use this URL:
+Want to download data files for the study with accession number 87? Use this URL:
 
 #### https://osdr.nasa.gov/osdr/data/osd/files/87 <a href="#w1xkxlkruyfu" id="w1xkxlkruyfu"></a>
 
@@ -230,7 +224,7 @@ https://osdr.nasa.gov/geode-py/ws/studies/OSD-87/download?source=datamanager\&fi
 * Pagination is your friend for large datasets. Play around with the {CURRENT\_PAGE\_NUMBER} and {RESULTS\_PER\_PAGE} parameters to navigate through extensive data collections.
 * Always refer to the official OSDR documentation for the latest information on the API and its functionalities.
 
-#### &#x20;<a href="#id-9myeo8lauurq" id="id-9myeo8lauurq"></a>
+#### &#x20;<a href="#fkzsxq1uj01p" id="fkzsxq1uj01p"></a>
 
 #### Study Dataset Search API <a href="#fkzsxq1uj01p" id="fkzsxq1uj01p"></a>
 

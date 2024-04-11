@@ -52,9 +52,7 @@ In this example, the user has selected a specific point in time and have decided
 
 
 
-<figure><img src=".gitbook/assets/Slide118.png" alt=""><figcaption></figcaption></figure>
-
-_**Alt text:** Screenshot of a “Data comparison” on the NASA RadLab website. On the initial landing page, an orange box highlights the periods selected by clicking on the screen. To the right is the zoomed-in view that shows these data with greater resolution and allows the user to linear regression comparing different combinations of sensors. The orange dotted box shows that when the user moves the mouse over the graph additional data is shown. Time on the x-axis and currently shows 3 different types of sensors on the ISS._
+<figure><img src=".gitbook/assets/Slide118.png" alt=""><figcaption><p><em>Screenshot of a “Data comparison” on the NASA RadLab website. On the initial landing page, an orange box highlights the periods selected by clicking on the screen. To the right is the zoomed-in view that shows these data with greater resolution and allows the user to linear regression comparing different combinations of sensors. The orange dotted box shows that when the user moves the mouse over the graph additional data is shown. Time on the x-axis and currently shows 3 different types of sensors on the ISS.</em></p></figcaption></figure>
 
 #### &#x20;<a href="#rtxkc7ji9cn8" id="rtxkc7ji9cn8"></a>
 
@@ -64,9 +62,7 @@ _**Alt text:** Screenshot of a “Data comparison” on the NASA RadLab website.
 
 In the example below we’ve highlighted that there is a demo option that loads data from the lidal detector for the year of 2022.
 
-<figure><img src=".gitbook/assets/Slide119.png" alt=""><figcaption></figcaption></figure>
-
-_**Alt text:** Screenshot of a data overview webpage titled “Geospatial plots” on the NASA RadLab website. On the initial landing page, a red arrow highlights the “click here” button that loads an example dataset. There is an empty template that shows time on the x-axis and provides the user with the chance to load different spacecraft, instruments, or specific time period._
+<figure><img src=".gitbook/assets/Slide119.png" alt=""><figcaption><p> <em>Screenshot of a data overview webpage titled “Geospatial plots” on the NASA RadLab website. On the initial landing page, a red arrow highlights the “click here” button that loads an example dataset. There is an empty template that shows time on the x-axis and provides the user with the chance to load different spacecraft, instruments, or specific time period.</em></p></figcaption></figure>
 
 #### Geospatial orthographic projection <a href="#id-7rjstjqv0fx9" id="id-7rjstjqv0fx9"></a>
 
@@ -74,20 +70,16 @@ The geospace plot page contains information about the spacecraft, the time perio
 
 * In this example the demo data from 2022 has been loaded, the log scale selected, allowing us to the Total dose rate as measured by the Lidal sensor.
 
-<figure><img src=".gitbook/assets/Slide120.png" alt=""><figcaption></figcaption></figure>
-
-_**Alt text:** Screenshot of a Geospatial data overview webpage on the NASA RadLab website where the example dataset has been added, it shows data from an ISS Lidal sensor from a period of 2020-2022 as an orthographic projection. The data is then plotted on the map showing a radiation hot spot above the South Atlantic Ocean._
+<figure><img src=".gitbook/assets/Slide120.png" alt=""><figcaption><p> <em>Screenshot of a Geospatial data overview webpage on the NASA RadLab website where the example dataset has been added, it shows data from an ISS Lidal sensor from a period of 2020-2022 as an orthographic projection. The data is then plotted on the map showing a radiation hot spot above the South Atlantic Ocean.</em></p></figcaption></figure>
 
 #### Other Geospatial options <a href="#id-2dua0qehws7m" id="id-2dua0qehws7m"></a>
 
 The RadLab allows users to change the type of geographical pot they use to present the data. In this example, we can see a comparison of 2 different methods, the equal Earth and natural earth. We recommend you explore them all and choose the one that is best for you.
 
-<figure><img src=".gitbook/assets/Slide121.png" alt=""><figcaption></figcaption></figure>
-
-_**Alt text:**_ _Screenshot of a data overview of 2 different ways to project the data with an insert showing the options that currently include Orthographic, Equirectangular, Equal Earth, and Natural Earth. The example dataset has been added, it shows data from an ISS Lidal sensor from the period of 2020-2022. The data is then plotted on the map showing a radiation hot spot above the South Atlantic Ocean._
+<figure><img src=".gitbook/assets/Slide121.png" alt=""><figcaption><p> <em>Screenshot of a data overview of 2 different ways to project the data with an insert showing the options that currently include Orthographic, Equirectangular, Equal Earth, and Natural Earth. The example dataset has been added, it shows data from an ISS Lidal sensor from the period of 2020-2022. The data is then plotted on the map showing a radiation hot spot above the South Atlantic Ocean.</em></p></figcaption></figure>
 
 #### RadLab sensor color definitions <a href="#p0ccotkc25gv" id="p0ccotkc25gv"></a>
 
 This page provides a list of all instruments in RadLab, along with the data source, the spacecraft, and the color that RadLab uses to define them through the analysis. This page also reminds users to clear their “cookies” is they have previously saved any settings.
 
-<figure><img src=".gitbook/assets/image (13).png" alt="Screenshot of a NASA RadLab website “Settings” page, it lists all the instruments that are currently in the RadLab b database. The data is then plotted on the map showing a radiation hot spot above the South Atlantic Ocean."><figcaption><p><em>Screenshot of a NASA RadLab website “Settings” page, it lists all the instruments that are currently in the RadLab database. The data is then plotted on the map showing a radiation hot spot above the South Atlantic Ocean.</em></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt="Screenshot of a NASA RadLab website “Settings” page, it lists all the instruments that are currently in the RadLab b database. The data is then plotted on the map showing a radiation hot spot above the South Atlantic Ocean."><figcaption><p><em>Screenshot of a NASA RadLab website “Settings” page, it lists all the instruments that are currently in the RadLab database. The data is then plotted on the map showing a radiation hot spot above the South Atlantic Ocean.</em></p></figcaption></figure>
