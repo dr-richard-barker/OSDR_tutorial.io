@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "ODSR tutorial"
-authors = [{name = "Graziella", email = "Richard.Barker@NASA.gov"}]
+authors = [{name = "Richard", email = "Richard.Barker@NASA.gov"}]
 dynamic = ["version", "description"]
