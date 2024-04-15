@@ -4,9 +4,6 @@
 format: jb-book
 root: intro
 parts:
-- caption: Basic example 🪄
-  chapters:
-  - file: markdown
-- caption: Cool extensions 🕶️
+- caption: nasa-osdr-home-page 🕶️
   chapters:
   - file: nasa-osdr-home-page
